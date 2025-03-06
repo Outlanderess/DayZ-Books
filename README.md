@@ -29,6 +29,7 @@ If you want more books to spawn, simply change the `<nominal>1</nominal>` number
 If you want books to spawn in different areas, simply copy & paste the `<usage name="Town"/>` line, make a line down, paste it in there and change the value from Town to another one (see types.xml for all usage names). Alternatively, change the existing usage names to the one you want. For example, if usage name is Military this will change them to spawn in a barracks/tent/checkpoint etc.
 
 ALWAYS VALIDATE ANY NEW FILE BEFORE UPLOADING TO YOUR SERVER
+
 If you encounter any issues please email outlanderess@protonmail.com
 
 Have fun, book collectors!!
