@@ -25,8 +25,8 @@ Do not upload the books.xml to the db or anywhere else in the server. It will no
 
 Note: Books in DayZ cannot currently be read but make interesting collector, quest or character items. For example, HaRP has a character who is documenting the old world by collecting books for storage.
 
-If you want more books to spawn, simply change the <nominal>1</nominal> number to a different value.
-If you want books to spawn in different areas, simply copy & paste the <usage name="Town"/> line, make a line down, paste it in there and change the value from Town to another one (see types.xml for all usage names). Alternatively, change the existing usage names to the one you want. For example, if usage name is Military this will change them to spawn in a barracks/tent/checkpoint etc.
+If you want more books to spawn, simply change the `<nominal>1</nominal>` number to a different value.
+If you want books to spawn in different areas, simply copy & paste the `<usage name="Town"/>` line, make a line down, paste it in there and change the value from Town to another one (see types.xml for all usage names). Alternatively, change the existing usage names to the one you want. For example, if usage name is Military this will change them to spawn in a barracks/tent/checkpoint etc.
 
 ALWAYS VALIDATE ANY NEW FILE BEFORE UPLOADING TO YOUR SERVER
 If you encounter any issues please email outlanderess@protonmail.com
